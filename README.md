@@ -1,5 +1,5 @@
 # Clean code study
-Clean code study guide
+Clean code study guide and discussion points
 
 # Sessions
 

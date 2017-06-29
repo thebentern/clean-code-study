@@ -1,5 +1,5 @@
 # Clean code study
-Clean code study guide and discussion points
+Discussion points for Clean Code by Robert "Uncle Bob" Martin.
 
 # Sessions
 

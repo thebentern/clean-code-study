@@ -28,4 +28,5 @@ getPersonInfo()
 
 # Use searchable names
 
+* Name things so that they can be found easily using tools.
 

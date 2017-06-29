@@ -1,5 +1,5 @@
 # Clean code study
-Discussion points for Clean Code by Robert "Uncle Bob" Martin.
+Discussion points for _Clean Code_ by Robert "Uncle Bob" Martin.
 
 # Sessions
 

@@ -56,5 +56,12 @@ getPersonInfo()
 
 * Your peers are developers and should be familiar with patterns such as Factory, Command, Vistor, etc.
 
+## Add meaningful context
 
+* Variables can be ambiguous or unclear by themselves. Context is needed to give them meaning
 
+## Don’t add gratuitous context
+
+* Don't append the product or brand to everything. 
+
+* This clutters names with unnecessary fluff and makes it more difficult to search.

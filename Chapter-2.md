@@ -1,5 +1,7 @@
 # Meaningful Names – Chapter 2
 
+# Positive
+
 ## Use intention revealing names
 
 * Clearly expressing intent is one of the most important concepts in development.

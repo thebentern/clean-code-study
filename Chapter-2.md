@@ -1,6 +1,6 @@
 # Meaningful Names – Chapter 2
 
-# Positive
+# Positives
 
 ## Use intention revealing names
 
@@ -9,10 +9,6 @@
 * Choosing good names takes time but saves time.
 
 * Imagine the developer picking up your method or class has no context.
-
-## Avoid disinformation
-
-* False clues can be harmful to other developers understanding your code.
 
 ## Make meaningful distinctions
 
@@ -24,6 +20,7 @@ What is the difference between these two methods?
 getPerson()
 getPersonInfo()
 ```
+
 ## Use pronouncable names
 
 * "If you can’t pronounce it, you can’t discuss it without sounding like an idiot."
@@ -31,6 +28,30 @@ getPersonInfo()
 ## Use searchable names
 
 * Name things so that they can be found easily using tools.
+
+## How to name Classes
+
+* Use nouns or noun phrases to identify classes and objects, since they things not actions.
+
+## How to name Methods
+
+* Use verbs or verb phrases to identify methods by the actions they are performing.
+
+## Use solution domain names
+
+* Your peers are developers and should be familiar with patterns such as Factory, Command, Vistor, etc.
+
+## Add meaningful context
+
+* Variables can be ambiguous or unclear by themselves. Context is needed to give them meaning
+
+---
+
+# Negatives
+
+## Avoid disinformation
+
+* False clues can be harmful to other developers understanding your code.
 
 ## Avoid Encodings
 
@@ -42,28 +63,12 @@ getPersonInfo()
 
 * Don't make other developers have to translate into words they know.
 
-## How to name Classes
-
-* Use nouns or noun phrases to identify classes and objects, since they things not actions.
-
-## How to name Methods
-
-* Use verbs or verb phrases to identify methods by the actions they are performing.
-
-## Don't be cute
-
-* Don't sacrifice clarity for the chance to tell a joke.
-
-## Use solution domain names
-
-* Your peers are developers and should be familiar with patterns such as Factory, Command, Vistor, etc.
-
-## Add meaningful context
-
-* Variables can be ambiguous or unclear by themselves. Context is needed to give them meaning
-
 ## Don’t add gratuitous context
 
 * Don't append the product or brand to everything. 
 
 * This clutters names with unnecessary fluff and makes it more difficult to search.
+
+## Don't be cute
+
+* Don't sacrifice clarity for the chance to tell a joke.

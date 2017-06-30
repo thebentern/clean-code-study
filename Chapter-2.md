@@ -52,3 +52,9 @@ getPersonInfo()
 
 * Don't sacrifice clarity for the chance to tell a joke.
 
+## Use solution domain names
+
+* Your peers are developers and should be familiar with patterns such as Factory, Command, Vistor, etc.
+
+
+

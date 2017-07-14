@@ -14,6 +14,8 @@
 
 ## Should have one level of abstraction
 
+* Functions should be interacting with symbols on the same level.
+
 ## Switch statements
 
 * Should not be used to violate single responsibility principle.

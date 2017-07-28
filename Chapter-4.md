@@ -72,6 +72,16 @@
 
 * Don't try to help fellow developers read.
 
+## Closing Brace Comments
+
+* Don't try to help fellow developers read.
+
+## Attributions and Bylines
+
+* See Journal Comments.
+
+## Commented-Out Code
+
+* Don't leave commented code in source. It's not helpful. Delete it.
 
 
-## Mandated Comments

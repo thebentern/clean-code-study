@@ -72,10 +72,6 @@
 
 * Don't try to help fellow developers read.
 
-## Closing Brace Comments
-
-* Don't try to help fellow developers read.
-
 ## Attributions and Bylines
 
 * See Journal Comments.

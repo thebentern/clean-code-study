@@ -84,4 +84,16 @@
 
 * Don't leave commented code in source. It's not helpful. Delete it.
 
+## Too Much Information
+
+* Don't clutter code with a bunch of noise.
+
+## Function Headers
+
+* Name your functions well enough that you don't need these.
+
+## Platform docs in private / internal code
+
+* Don't place platform API docs on methods and classes that are not being publicly consumed.
+
 

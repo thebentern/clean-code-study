@@ -8,3 +8,5 @@ Discussion points for _Clean Code_ by Robert "Uncle Bob" Martin.
 [Chapter 3 - Functions](Chapter-3.md)
 
 [Chapter 4 - Comments](Chapter-4.md)
+
+[Chapter 6 - Objects and Datastructure](Chapter-6.md)

@@ -17,3 +17,11 @@
 * Write tests around expected exception handling under certain conditions
 
 ## Provide Context with Exceptions
+
+* Use informative error messages and relativant exception parameters.
+
+## Define Exception Classes in Terms of a Caller’s Needs
+
+* How they are caught?
+
+## Define the normal flow

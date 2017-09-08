@@ -10,3 +10,5 @@ Discussion points for _Clean Code_ by Robert "Uncle Bob" Martin.
 [Chapter 4 - Comments](Chapter-4.md)
 
 [Chapter 6 - Objects and Datastructure](Chapter-6.md)
+
+[Chapter 7 - Error Handling](Chapter-7.md)

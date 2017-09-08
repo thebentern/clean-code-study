@@ -18,10 +18,20 @@
 
 ## Provide Context with Exceptions
 
-* Use informative error messages and relativant exception parameters.
+* Use informative error messages and relativant exception parameters
 
 ## Define Exception Classes in Terms of a Caller’s Needs
 
 * How they are caught?
 
 ## Define the normal flow
+
+* Cleanly separate business logic from  error handling
+
+## Don’t Return Null
+
+* Returning null creates more work for consumers down the line
+
+## Don’t Pass Null
+
+* Same principal as above

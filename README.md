@@ -15,4 +15,4 @@ Discussion points for _Clean Code_ by Robert "Uncle Bob" Martin.
 
 [Chapter 8 - Boundaries](Chapter-8.md)
 
-[Chapter 9 - Unit Testings](Chapter-9.md)
+[Chapter 9 - Unit Testing](Chapter-9.md)

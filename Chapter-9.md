@@ -23,5 +23,7 @@
 
 * Fast - Tests should run quickly.
 * Independent - Tests should not depend on one another or the order that they run in to be successful.
-* Repeatable
+* Repeatable - Tests should be repeatable in any environment.
+* Self-Validating - Test should be either pass or fail. Test results should only be validated through one means.
+* Timely - Tests should be written in a timely fashion.
 
